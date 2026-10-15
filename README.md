@@ -390,8 +390,6 @@ reach the same answer, use the answer-set algorithms in `graph.py`.
 - Demšar (2006). Statistical comparisons of classifiers over multiple data sets. *JMLR*.
 - Romano, Le, Olson, Moore (PMLB). Penn Machine Learning Benchmarks.
 
-**AI-use statement (CSJM policy).** The code, experiments and this README were produced with an AI assistant
-(Claude, Anthropic). Disclose this in the Methodology/Acknowledgements section and in the cover letter, as the
-journal requires.
+
 
 License: MIT.
